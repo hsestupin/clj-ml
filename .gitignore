@@ -3,6 +3,8 @@ pom.xml
 lib
 classes
 .lein*
+.idea/
+clj-ml.iml
 
 ## EMACS
 *~
