@@ -4,6 +4,7 @@ lib
 classes
 .lein*
 .idea/
+target
 clj-ml.iml
 
 ## EMACS
